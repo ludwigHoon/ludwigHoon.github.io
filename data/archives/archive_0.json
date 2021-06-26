@@ -1,0 +1,16 @@
+{
+    "page": 1,
+    "prev": null,
+    "next": "1",
+    "data": [
+        {
+            "title": "test",
+            "summary": "Testing",
+            "publishedDate": "",
+            "lastUpdated": "",
+            "author": "Ludwig",
+            "link": "post1"
+        },
+        {}
+    ]
+}
