@@ -1,0 +1,33 @@
+{
+    "stats": [
+        {"stat":"isAlive", "type":"color", "value":"green"},
+        {"stat":"lastPing", "type":"text", "value":"2021-06-31"}
+    ],
+    "playlists":[
+        {"url": "https://open.spotify.com/embed/playlist/0riVuN75ydPjyjvsdVsZjG?theme=0", "type": "spotify"},
+        {"url": "https://open.spotify.com/embed/playlist/5RDRYrBsR20Nvrd81o4YMW", "type": "spotify"},
+        {"url": "https://open.spotify.com/embed/playlist/3kGaGQkNj3utBxXwBG1TFZ", "type": "spotify"},
+        {"url": "https://open.spotify.com/embed/playlist/16HFkjJstsVx1NWZglT5i6", "type": "spotify"},
+        {"url": "https://open.spotify.com/embed/playlist/0lCkAHNqlzDSVdAKqA3NZP", "type": "spotify"},
+        {"url": "https://open.spotify.com/embed/playlist/6SqGJkgAxI4gLnvzTikwxa", "type": "spotify"},
+        {"url": "https://open.spotify.com/embed/playlist/2kukmanxqVicKS8BAKNOn8", "type": "spotify"}
+    ],
+    "pinned_posts":[
+        {
+            "title": "test",
+            "summary": "Testing",
+            "publishedDate": "",
+            "lastUpdated": "2021-06-30T21:34:00Z",
+            "author": "Ludwig",
+            "link": "post1"
+        },
+        {
+            "title": "test",
+            "summary": "Testing",
+            "publishedDate": "",
+            "lastUpdated": "2021-06-30T21:34:00Z",
+            "author": "Ludwig",
+            "link": "post1"
+        }
+    ]
+}

@@ -1,16 +1,16 @@
 {
     "name":"Ludwig Hoon",
-    "profilePic": "https://scontent.fkul8-1.fna.fbcdn.net/v/t1.6435-9/79252613_3227036603978782_393830801482973184_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Fm7Z9m443LgAX84pHvm&_nc_ht=scontent.fkul8-1.fna&oh=6598462ffb2d65520d5526f6fdf4e587&oe=60DB8A3A",
+    "profilePic": "./data/images/profile.jpg",
     "action":"Alea iacta est.",
-    "actionPic":"https://img.icons8.com/color/48/000000/critical-thinking--v1.png",
+    "actionPic":"./data/images/thinking.png",
     "summary":"Very much driven by adrenaline| Adventurous| INTP| Coffee| Dog| Aspiring computer scientist| L[G]BTQ+",
     "work":"PhD candidate, Menzies School of Health Research",
     "location":"Ipoh, Malaysia",
     "email":"ldwgkshoon@gmail.com",
     "socials":[
-        {"socialPic":"https://img.icons8.com/color/48/000000/facebook-circled.png","socialLink":"https://www.facebook.com/ludwigdhoon/"},
-        {"socialPic":"https://img.icons8.com/color/48/000000/instagram-new.png","socialLink":"https://www.instagram.com/ludwigdvik/"},
-        {"socialPic":"https://img.icons8.com/color/48/000000/spotify.png","socialLink":"https://open.spotify.com/user/1294015168"},
-        {"socialPic":"https://img.icons8.com/color/48/000000/github--v1.png","socialLink":"https://github.com/ludwigHoon"}
+        {"socialPic":"./data/images/facebook.png","socialLink":"https://www.facebook.com/ludwigdhoon/"},
+        {"socialPic":"./data/images/instagram.png","socialLink":"https://www.instagram.com/ludwigdvik/"},
+        {"socialPic":"./data/images/spotify.png","socialLink":"https://open.spotify.com/user/1294015168"},
+        {"socialPic":"./data/images/github.png","socialLink":"https://github.com/ludwigHoon"}
     ]
 }
